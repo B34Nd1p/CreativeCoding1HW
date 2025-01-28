@@ -1,0 +1,6 @@
+August Hughes
+Cory McKague
+Creative Coding 1
+25 January 2025
+
+CLI and GUI refer to the way information is displayed on your computer screen. CLI (short for Command Line Interface) and GUI (short for Graphical User Interface) both allow the user to interact with software however they do it in very different ways. In GUI you interact with a graphical element (hence the name Graphical User Interface) to interact with the software whereas in CLI is simply lines of code (command line) with no graphical representation. An example of GUI would be the file Explorer for Windows. In the file explorer you have a graphical representation of where your files are stored and you can interact with their icons. Where as an example of CLI would be the Power Shell for windows. In the power shell you can execute commands and path through your files but there is no visual representation only lines of code and while both work just as well CUI is generally more difficult to use compared to GUI. Due to this GUI is generally more Layman's as having a visual cue helps people understand things better and makes them more accessible where as CLI usually requires a more in depth knowledge of the program or application you are using. 
